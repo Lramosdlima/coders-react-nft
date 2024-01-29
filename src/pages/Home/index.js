@@ -18,7 +18,7 @@ export function Home() {
   }
 
   const filteredNFTs = nfts.filter((nft) =>
-    nft.name.toLowerCase().includes(inputValue)
+    nft.name.toLowerCase().includes(inputValue.toLowerCase())
   );
 
   return (
