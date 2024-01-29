@@ -26,20 +26,14 @@ export default function Header() {
       </ul>
       <ul className={styles.userInfoContainer}>
         <li>
-          <span>
-            <Search />
-          </span>
+          <Search />
         </li>
-        <li>
-          <span>
-            <Lock />
-          </span>
+        <li className={styles.authContainer}>
+          <Lock />
           <span>Sign In</span>
         </li>
-        <li>
-          <span>
-            <Hamburger />
-          </span>
+        <li className={styles.hamburgerContainer}>
+          <Hamburger />
         </li>
       </ul>
     </div>

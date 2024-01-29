@@ -9,17 +9,34 @@ export default function Card({ nft }) {
       <img src={nft.imgUrl} alt={nft.name} className={styles.image} />
       <div className={styles.details}>
         <h5>{nft.name}</h5>
-        <span>{nft.author.name}</span>
-        <h4><Ethereum/>{nft.price} {nft.coin}</h4>
+
+        <div className={styles.authorContainer}>
+          <img
+            src={nft.author.imgUrl}
+            alt={nft.author.name}
+            className={styles.authorImg}
+          />
+          <span>{nft.author.name}</span>
+        </div>
+
+        <div className={styles.priceContainer}>
+          <h4>
+            <Ethereum />
+            {nft.price} {nft.coin}
+          </h4>
+          <span>≈ $140.05</span>
+        </div>
       </div>
 
       <div className={styles.timeContainer}>
-        <Clock/>
+        <Clock />
+        <span>05:20</span>
       </div>
 
       <div className={styles.likeContainer}>
-        <Heart/> {nft.likes}
+        <Heart />
+        <span>{nft.likes}</span>
       </div>
-     </div>
+    </div>
   );
 }
