@@ -1,3 +1,5 @@
+import Card from "../../components/Card";
+import { nfts } from "./mock";
 import styles from "./styles.module.css";
 
 export function Home() {
@@ -18,7 +20,13 @@ export function Home() {
           <button className={styles.smallButton}>L</button>
         </div>
 
-        <div className={styles.nfts}></div>
+        <div className={styles.nfts}>
+
+            {nfts.map((nft) => (
+              <Card nft={nft}/>
+            ))}
+
+        </div>
       </div>
     </div>
   );
