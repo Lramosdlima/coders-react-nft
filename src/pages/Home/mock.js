@@ -1,7 +1,7 @@
 export const nfts = [
   {
     id: 1,
-    name: "Deadzone 13 Hideout",
+    name: "Morcegod",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -13,7 +13,7 @@ export const nfts = [
   },
   {
     id: 2,
-    name: "Deadzone 13 Hideout",
+    name: "Kid Dream",
     price: "0.49",
     coin: "BNB",
     likes: 1200,
@@ -25,7 +25,7 @@ export const nfts = [
   },
   {
     id: 3,
-    name: "Deadzone 13 Hideout",
+    name: "Bright Stones",
     price: "0.49",
     coin: "BNB",
     likes: 290,
@@ -37,7 +37,7 @@ export const nfts = [
   },
   {
     id: 4,
-    name: "Deadzone 13 Hideout",
+    name: "Frozen Desert",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -49,7 +49,7 @@ export const nfts = [
   },
   {
     id: 5,
-    name: "Deadzone 13 Hideout",
+    name: "Space Wars",
     price: "0.49",
     coin: "BNB",
     likes: 1200,
@@ -61,7 +61,7 @@ export const nfts = [
   },
   {
     id: 6,
-    name: "Deadzone 13 Hideout",
+    name: "Flowers",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -73,7 +73,7 @@ export const nfts = [
   },
   {
     id: 7,
-    name: "Deadzone 13 Hideout",
+    name: "Future City",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -85,7 +85,7 @@ export const nfts = [
   },
   {
     id: 8,
-    name: "Deadzone 13 Hideout",
+    name: "Aliens",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -97,7 +97,7 @@ export const nfts = [
   },
   {
     id: 9,
-    name: "Deadzone 13 Hideout",
+    name: "Alone in the School",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -109,7 +109,7 @@ export const nfts = [
   },
   {
     id: 10,
-    name: "Deadzone 13 Hideout",
+    name: "Chips",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -121,7 +121,7 @@ export const nfts = [
   },
   {
     id: 11,
-    name: "Deadzone 13 Hideout",
+    name: "Modern Hearth",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -133,7 +133,7 @@ export const nfts = [
   },
   {
     id: 12,
-    name: "Deadzone 13 Hideout",
+    name: "Spectral",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -145,7 +145,7 @@ export const nfts = [
   },
   {
     id: 13,
-    name: "Deadzone 13 Hideout",
+    name: "Halloween",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -157,7 +157,7 @@ export const nfts = [
   },
   {
     id: 14,
-    name: "Deadzone 13 Hideout",
+    name: "Room",
     price: "0.49",
     coin: "BNB",
     likes: 34,
@@ -169,7 +169,7 @@ export const nfts = [
   },
   {
     id: 15,
-    name: "Deadzone 13 Hideout",
+    name: "Precious",
     price: "0.49",
     coin: "BNB",
     likes: 34,
