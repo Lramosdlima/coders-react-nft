@@ -1,4 +1,12 @@
-# 🎨 Marketplace NFT: Sobre o projeto 
+<h1 align="center">
+    <a href="#" alt="Marketplace NFT"> 🎨 Marketplace NFT </a>
+</h1>
+
+<p align="center">
+  Feito por Leonardo Ramos
+</p>
+
+# Sobre o projeto  🤔
 
 A proposta do projeto é fazer Marketplace de NFT. A listagem disponibilizada é um mock de dados de alguns itens NFT dispostos em grid, possibilitando pesquisar itens pelo nome aplicando um filtro por meio dos estados na listagem.
 
